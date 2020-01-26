@@ -12,5 +12,5 @@ This tool is great for enumeration of Hack the Box machines when searching for d
 `pip3 install requirements.txt` 
 
 
-`python3 main.py --url yourpagehere.com.net.org.com --filename you_file_name`
+`python3 main.py --url yourpagehere.com.net.org.com --filename your_file_name`
 
